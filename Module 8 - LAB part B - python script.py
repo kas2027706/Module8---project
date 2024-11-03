@@ -35,5 +35,5 @@ total = subtotal + tax
 split_total = total/num_people
 
 print(f"The tax for the total bill is: ${tax:,.2f}")
-print(f"The total, including tax is: ${total:,.2f}")
+print(f"The total, including tax is: ${total:,.2f}, Thank you for your service. ")
 print(f"The total cost per person is: ${split_total:,.2f}")

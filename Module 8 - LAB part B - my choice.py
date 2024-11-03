@@ -5,4 +5,4 @@
  This lab is my third file, a .py for ease.
 """
 
-codelove = input("Do you identify as a Pythonista yet?")
+codelove = input("Do we identify as a Pythonista yet?")
